@@ -1,13 +1,13 @@
 {
   "name": "main-navigation",
   "version": "1.0.0",
-  "description": "",
+  "description": "A micro frontend for smartux UI.",
   "main": "index.js",
   "scripts": {
     "start": "PORT=3001 react-app-rewired start",
     "build": "react-app-rewired build"
   },
-  "author": "",
+  "author": "hoangl@mz.co.kr",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
