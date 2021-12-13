@@ -13,6 +13,3 @@ you're tweaking logic and styling, but you'll usually then need to integrate and
 test it with the rest of the application. So you should also run:
 
 - the [`container`](https://github.com/luonghoang91/micro-container) application
-
-
-
